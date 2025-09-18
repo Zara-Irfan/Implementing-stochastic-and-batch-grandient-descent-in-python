@@ -1,0 +1,1 @@
+# Implementing-stochastic-and-batch-grandient-descent-in-python
